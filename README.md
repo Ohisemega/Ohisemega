@@ -3,7 +3,7 @@ Also known as Famous
 - 👀 I’m interested in C/C++ projects 
 - 🌱 I’m always learning C++ lol (life-long hassle)
 - 🌱 Learning Rust as a side gig
-- 💞️ I’m looking to collaborate on operating system
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me? Via email famousalele@gmail.com
 
 <!---
