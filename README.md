@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ohisemega
-Also known as Famous
+- Also known as Famous
 - 👀 I’m interested in C/C++ projects 
 - 🌱 I’m always learning C++ lol (life-long hassle)
 - 🌱 Learning Rust as a side gig
