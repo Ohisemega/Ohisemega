@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ohisemega
 - I'm a growing Systems Developer
-- 👀 I’m interested in C/C++ projects 
-- :)  Studying DSA, OS, and Computer. Sci. fundamentals
-- 🌱 I’m always learning C++ lol (life-long hassle)
-- 🌱 Learning Rust as a side gig
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in C/C++ and Rust projects.
+- :)  Studying DSA, OS, and Computer Sci. fundamentals.
+- 🌱 I’m always learning more on modern C++ (life-long hassle)
+- 🌱 Learning Rust as a side gig.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me? Via email famousalele@gmail.com
 
 <!---
