@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ohisemega
-- I'm a Junior Systems Developer
+- I'm a Systems Developer
 - 👀 I’m interested in C/C++ and Rust projects.
 - :)  Studying DSA, OS, and Computer Sci. fundamentals.
-- 🌱 I’m always learning more on modern C++ (life-long hassle)
+- 🌱 I’m always learning more about modern C++ (life-long hassle)
 - 🌱 Learning Rust as a side gig.
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me? Via email famousalele@gmail.com
 - 👀 Find me on LinkdIn via www.linkedin.com/in/famous-alele
 
