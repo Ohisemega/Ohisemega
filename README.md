@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ohisemega
-- I'm a Systems Developer
+- I'm a Systems Software Engineer
 - 👀 I’m interested in C/C++ and Rust projects.
 - :)  Studying DSA, OS, and Computer Sci. fundamentals.
 - 🌱 I’m always learning more about modern C++ (life-long hassle)
