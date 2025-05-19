@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ohisemega
 - I'm a Systems Software Engineer
 - 👀 I’m interested in C/C++ and Rust projects.
-- :)  Studying DSA, OS, and Computer Sci. fundamentals.
-- 🌱 I’m always learning more about modern C++ (life-long hassle)
+- I work with the Linux Kernel and Yocto (embedded Linux).
+- :)  Studying DSA, OS, and other Computer Science fundamentals.
+- 🌱 I’m always learning more about modern C++ (lifelong hassle)
 - 🌱 Learning Rust as a side gig.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me? Via email famousalele@gmail.com
