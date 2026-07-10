@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ohisemega
-- I'm a Systems Software Engineer
+- I'm a Systems Software Engineer, currently developing high-performance computing applications.
 - 👀 I’m interested in C++ and Rust projects.
 - I work with the Linux Kernel
 - :) I often work with diverse algorithms and data structures.
